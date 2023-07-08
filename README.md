@@ -1,10 +1,12 @@
 # Note Training
 
-Improve your piano note reading skills. Connect piano to your computer via MIDI interface and start play. 
+Improve your piano note reading skills 🎹🎹🎹 !
+
+Connect your piano to your computer via MIDI interface and start practice. 
 
 ![image](./example.png)
 
-Check out the [Live Demo](#)
+Check out the [Live Demo](https://dezone.github.io/note-training/)
 
 ### Local setup
 
