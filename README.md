@@ -6,7 +6,7 @@ Connect your piano to your computer via MIDI interface and start practice.
 
 ![image](./example.png)
 
-Check out the [Live Demo](https://dezone.github.io/note-training/)
+Check out the [Live Demo](https://paulsleepy.github.io/note-training/) (Chrome only)
 
 ### Local setup
 
